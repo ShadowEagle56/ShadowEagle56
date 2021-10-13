@@ -8,7 +8,7 @@
     <ul>
        <li> English   <br>★★★★☆
        <li> Chinese   <br>★★★☆☆
-       <li> Malay     <br>★★☆☆☆
+       <li> Malay     <br>★★★☆☆
     </ul>
 </ul>
 
