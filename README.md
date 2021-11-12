@@ -2,7 +2,7 @@
 
 ### 💁‍♀️ About me:
 <ul>
-  <li> Currently a full-time student and a part-time writer for <a href="https://lifeofaworkingadult.com/">Life of a Working Adult</a>
+  <li> Currently a full-time student and co-owner of <a href="https://lifeofaworkingadult.com/">Life of a Working Adult</a>
   <li> Absolutely fascinated by coding and what it can do
   <li> Language fluency:
     <ul>
