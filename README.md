@@ -44,6 +44,6 @@
 <a href="https://www.linkedin.com/in/alyssa-ting-8403a8170/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 📈 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowEagle56&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/ShadowEagle56/ShadowEagle56">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowEagle56&theme=tokyonight&layout=compact" />
 </a>
