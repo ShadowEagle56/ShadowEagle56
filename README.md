@@ -45,5 +45,5 @@
 
 ### 📈 GitHub Stats
 <a href="https://github.com/ShadowEagle56/ShadowEagle56">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowEagle56&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShadowEagle56&theme=tokyonight&layout=compact" />
 </a>
