@@ -15,7 +15,7 @@
 
 ### 📚 Education:
 <ul>
-  <li> Second year student at Monash University Malaysia
+  <li> Third year student at Monash University Malaysia
   <li> Currently undertaking Bachelor of Computer Science - Advance Computer Science Specialisation
 </ul>
 
@@ -38,6 +38,8 @@
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </ul>
     
 ### 💬 Connect With Me
