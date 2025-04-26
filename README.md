@@ -2,7 +2,7 @@
 
 ### 💁‍♀️ About me:
 <ul>
-  <li> Currently a full-time student and co-owner of <a href="https://lifeofaworkingadult.com/">Life of a Working Adult</a>
+  <li> Currently working full-time and co-owner of <a href="https://lifeofaworkingadult.com/">Life of a Working Adult</a>
   <li> Absolutely fascinated by coding and what it can do
   <li> Language fluency:
     <ul>
@@ -11,15 +11,14 @@
        <li> Malay     <br>★★★☆☆
     </ul>
 </ul>
-
+<hr>
 
 ### 📚 Education:
-<ul>
-  <li> Third year student at Monash University Malaysia
-  <li> Currently undertaking Bachelor of Computer Science - Advance Computer Science Specialisation
-</ul>
+<p><b>Monash University Malaysia (2021 - 2024)</b></p>
+<p>Bachelor of Computer Science - Advance Computer Science Specialisation</p>
+<hr>
 
-### 🛠 Coding Languages (2019 - Present):
+### 💻 Coding Languages (2019 - Present):
 <ul>
   <li>Intermediate knowledge:
   <br>
@@ -41,9 +40,28 @@
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </ul>
+<hr>
+
+### 🛠 Other Skills
+<ul>
+  <li>Intermediate knowledge:
+  <br>
+  <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <br>
+  <br>
+  <li>Basic knowledge:
+  <br>
+  <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</ul>
+<hr>
     
 ### 💬 Connect With Me
 <a href="https://www.linkedin.com/in/alyssa-ting-8403a8170/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<hr>
 
 ### 📈 GitHub Stats
 <a href="https://github.com/ShadowEagle56/ShadowEagle56">
